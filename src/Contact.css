@@ -1,0 +1,18 @@
+#Contact{
+    padding-top: 10px;
+    padding-bottom: 40px;
+}
+
+#Contact h1{
+    display: flex;
+    font-size: 40px;
+    justify-content: center;
+    padding-top: 10px;
+    padding-bottom: 15px;
+}
+
+.cool{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}

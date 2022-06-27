@@ -1,0 +1,14 @@
+.copyright{
+    color: #fff;
+    display: flex;
+    padding-top: 14px;
+    padding-bottom: 10px;
+    background-color: #191919;
+    justify-content: center;
+}
+
+.copyrightMessage{
+    color: #c6c9d8;
+    font-size: 15px;
+    opacity: 0.75;
+}
